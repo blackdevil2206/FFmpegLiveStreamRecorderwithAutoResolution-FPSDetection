@@ -2,10 +2,15 @@ A Python script that automatically records live streams using FFmpeg and FFprobe
 
 Key Features:
 ✅ Auto-detects resolution & FPS (via FFprobe)
+
 ✅ Checks stream availability before recording
+
 ✅ Applies deinterlacing & FPS normalization
+
 ✅ Adds watermark text (customizable)
+
 ✅ Generates timestamped output filenames
+
 ✅ Handles audio sync & corrupt frames
 
 Explanation of Key Components:
